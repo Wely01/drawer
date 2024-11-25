@@ -19,8 +19,12 @@ Abra o terminal na pasta do projeto e de esses comandos:
 
 ## Tecnologias e bibliotecas utilizadas:
 
-1.React Native 
+1.React Native
+
 2.VScode
+
 3.Drawer
+
 4.Icon
+
 5.Entypo
